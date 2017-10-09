@@ -1,5 +1,5 @@
 {
-    "name": "matgargano/async-transients",
+    "name": "matgargano/async-transients-redux",
     "description": "Transients, that regenerate asynchronously once content is expired, and serve stale content in the mean time",
     "type": "wordpress-library",
     "license": "MIT",
